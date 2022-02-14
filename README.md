@@ -1,2 +1,2 @@
 web dev practice<br>
-https://kyurun.github.io/todo-list/
+https://khyreek.github.io/todo-list/
